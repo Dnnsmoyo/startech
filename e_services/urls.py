@@ -19,5 +19,12 @@ from startup import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',views.index),
+    path('',views.index,name='index'),
+    path('about',views.about,name='about'),
+    path('blog',views.blog,name='blog'),
+    path('contact',views.contact,name='contact'),
+    path('services',views.services,name='services'),
+    path('project',views.project,name='project'),
+    path('single_blog',views.single_blog,name='single-blog'),
+    path('success',views.successView,name='success'),
 ]
