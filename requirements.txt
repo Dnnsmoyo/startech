@@ -155,7 +155,7 @@ python-socketio==4.3.1
 python-telegram-bot==11.1.0
 python-twitter==3.5
 pytz==2019.2
-PyYAML==5.1.2
+PyYAML==5.4
 pyzmq==18.1.0
 questionary==1.2.0
 rasa==1.0.9
