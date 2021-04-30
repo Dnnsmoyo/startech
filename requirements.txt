@@ -168,7 +168,7 @@ requests-oauthlib==1.2.0
 requests-toolbelt==0.9.1
 rjsmin==1.1.0
 rocketchat-API==0.6.34
-rsa==4.0
+rsa==4.7
 ruamel.yaml==0.15.100
 s3transfer==0.2.1
 sanic==19.3.1
